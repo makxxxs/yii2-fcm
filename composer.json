@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "require": {
         "yiisoft/yii2": "^2",
-        "paragraph1/php-fcm": "^0.7"
+        "paragraph1/php-fcm": "dev-fix"
     },
     "license": "MIT",
     "authors": [
